@@ -26,10 +26,12 @@ Hi there! I am a cyber security engineer and network engineer with a strong pass
 ## 📂 Projects
 Here are some of the projects I've worked on:
 
-- **SecureChat**: A secure messaging application developed in Python.
-- **Network Monitor**: Network monitoring tool written in C#.
-- **Web Scraper**: Web scraping scripts for data analysis in JavaScript.
-- **IoT Security**: Research project on the security of IoT devices.
+- **Minecraft Plugins**: Developed custom plugins for Minecraft servers to enhance gameplay and server management using Java.
+- **Arduino Projects**: Created various scripts for Arduino to automate tasks and control hardware.
+- **License Management System**: Implemented a complex license management system with HWID (Hardware ID) verification.
+- **IoT Security Research**: Conducted research and developed solutions to improve the security of IoT devices.
+- **Ducky Script Projects**: Developed custom Ducky Script payloads for automating tasks and penetration testing.
+
 
 ## 📫 Contact
 - **Email**: uububox@gmail.com
