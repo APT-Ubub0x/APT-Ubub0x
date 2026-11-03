@@ -15,7 +15,7 @@
 
 <a href="https://github.com/APT-Ubub0x"><img src="https://img.shields.io/badge/GitHub-APT--Ubub0x-181717?style=for-the-badge&logo=github" /></a>
 <a href="mailto:uububox@gmail.com"><img src="https://img.shields.io/badge/Email-uububox@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Discord-ububoxobv-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-ububox-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
 <img src="./assets/divider.svg" width="100%" />
 
